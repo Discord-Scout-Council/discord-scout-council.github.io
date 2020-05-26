@@ -1,8 +1,8 @@
 [![builds.sr.ht status](https://builds.sr.ht/~muirrum/devosmium.xyz/.build.yml.svg)](https://builds.sr.ht/~muirrum/devosmium.xyz/.build.yml?)
 
-# devosmium.xyz
+# DSC Website
 
-This is code used to create the [devosmium.xyz](https://devosmium.xyz).
+This is code used to create the [DSC site](https://dsc.devosmium.xyz).
 
 ## Comments
 
@@ -21,7 +21,6 @@ It is inspired by [drewdevault.com](https://drewdevault.com).
 ## Dependencies
 
 - [`hugo`](https://gohugo.io) `>= 0.65`
-- [`openring`](https://git.sr.ht/~sircmpwn/openring)
 
 ## Licenses
 
